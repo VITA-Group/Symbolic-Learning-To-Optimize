@@ -1,0 +1,5 @@
+Complexity|MSE|Equation
+1|1.2779198e-5|-0.0036656987
+2|1.2779198e-5|sinh(-0.0036657401)
+48|3.881672e-6|mult(sinh(sinh(sinh(sinh(pow(0.11232872, asinh(square(plus(tanh(sqrtm(tanh(asinh(plus(asinh(asinh(pow(plus(asinh(mult(sinh(plus(cube(sinh(square(sinh(sinh(sign(cube(square(mult(g0, plus(g2, g14)))))))))), t)), plus(-28.506275, 1.3811486))), g10), plus(0.9052736, g1)))), relu(g13)))))), 0.46329194)))))))), -0.033964403)
+49|3.880538e-6|mult(sinh(sinh(sinh(sinh(pow(0.11232872, asinh(square(plus(tanh(sqrtm(tanh(asinh(plus(asinh(asinh(pow(plus(asinh(mult(sinh(plus(cube(sinh(square(sinh(sinh(sign(cube(square(mult(g0, plus(g2, g14)))))))))), t)), plus(-28.506275, 1.3811486))), g10), plus(0.9052736, g1)))), relu(tanh(g13))))))), 0.46329194)))))))), -0.033964403)
